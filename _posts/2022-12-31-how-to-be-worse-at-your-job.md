@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to be Worse at Your Job"
-categories: [rants]
+categories: career
 tags: [career, "self improvement"]
 ---
 
